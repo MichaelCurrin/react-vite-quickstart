@@ -1,4 +1,4 @@
-# Vite React Quickstart
+# React Vite Quickstart
 > Starter template for a React project using Vite as a build tool
 
 
