@@ -10,4 +10,5 @@
 
 ## Related projects
 
-- [vite-vue-quickstart](https://github.com/MichaelCurrin/vite-vue-quickstart)
+- [vue-vite-quickstart](https://github.com/MichaelCurrin/vue-vite-quickstart)
+- [vite-quickstart](https://github.com/MichaelCurrin/vite-quickstart)
